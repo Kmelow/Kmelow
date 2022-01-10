@@ -7,9 +7,10 @@
 🏔 I thoroughly enjoy mountaineering which helped me overcome my fear of heights while building strong team management skills, and it keeps my adrenaline levels high.
 
 ### 🧰 Tools that I'm:
-- **good**:
+- **comfortable**:
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="NextJS Logo" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScrypt Logo" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="NextJS Logo" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="ReactJS Logo" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS Logo" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express Logo" width="40" height="40"/>
@@ -27,13 +28,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass Logo" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Jenkins Logo" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker Logo" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C Logo" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++ Logo" width="40" height="40"/>
-
-- **learning**:
-
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScrypt Logo" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes Logo" width="40" height="40"/>
 
 ---
 
